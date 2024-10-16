@@ -1,4 +1,7 @@
-add()
+
+
+	printf("ininini");
+	add()
 sub()
-mul()
+mul()printf("ononono");
 div()
